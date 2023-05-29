@@ -2,6 +2,11 @@
 
 This repository contains a simple Tic Tac Toe game website built using HTML, CSS, and JavaScript. The game allows two players to play against each other on a 3x3 grid, aiming to get three of their marks in a row, column, or diagonal.
 
+##Link To website : 
+```shell
+https://my-tictactoe-sudhakar.netlify.app/
+```
+
 ## Features
 
 - Interactive and responsive UI design.
